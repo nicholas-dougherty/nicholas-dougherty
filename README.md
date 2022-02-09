@@ -1,5 +1,3 @@
-![yurgh](https://user-images.githubusercontent.com/96060766/153166169-95d7037e-2ba6-45d2-bda6-783bb01810ab.png)
-
 ### Hello there, Git crowd! :feelsgood:
 
    Love languages were conceptualized a year before I was born. Among those five 'languages,' _acts of service_ has resonated the most.
@@ -17,7 +15,7 @@ information technology, my passions are nested in literature, music, and nature.
    
 p.s. "Git Gud"   
 
-
+![yurgh](https://user-images.githubusercontent.com/96060766/153166169-95d7037e-2ba6-45d2-bda6-783bb01810ab.png)
 
 
 
