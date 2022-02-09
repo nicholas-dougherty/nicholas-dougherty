@@ -1,7 +1,7 @@
 ### Hello there, Git crowd! :feelsgood:
 ***
 In early 2022 I pursued a data scientist career
-by moving to San Antonio, TX to participate in Codeup's Data Science bootcamp.
+by moving to San Antonio, TX, to participate in Codeup's Data Science bootcamp.
 ***
 <p> Via the Department of Veterans Affairs excellent Veteran Employment Through Technology Education
 Courses (VET TEC) program, I shall learn: Applied Statistics, SQL, Regression, Classification, Time Series Analysis, Anomaly Detection, Natural Language
