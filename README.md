@@ -13,13 +13,11 @@ __UNTIL__ I started learning Python. Python is now my language of love.
    Prior to this pursuit, I've worn a handful of hats. The most memorable were as an Intelligence Specialist and Geopolitical Analyst. 
 Outside of information technology, my passions are nested in literature, music, and nature. 
 
-> If you would like to contact me, feel free to do so via [my LinkedIn profile](https://www.linkedin.com/in/nicholas-dougherty-14037a141/).
+## > If you would like to contact me, feel free to do so via [my LinkedIn profile](https://www.linkedin.com/in/nicholas-dougherty-14037a141/).
    
-~~p.s. "Git Gud"~~   
-
 ![yurgh](https://user-images.githubusercontent.com/96060766/153166169-95d7037e-2ba6-45d2-bda6-783bb01810ab.png)
 
-
+~~p.s. "Git Gud"~~   
 
 <!--
 **nicholas-dougherty/nicholas-dougherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
