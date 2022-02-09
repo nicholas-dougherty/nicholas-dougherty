@@ -3,9 +3,9 @@
 In early 2022 I pursued a data scientist career
 by moving to San Antonio, TX, to participate in Codeup's Data Science bootcamp.
 ***
-<p> Via the Department of Veterans Affairs excellent Veteran Employment Through Technology Education
+Via the Department of Veterans Affairs excellent Veteran Employment Through Technology Education
 Courses (VET TEC) program, I shall learn: Applied Statistics, SQL, Regression, Classification, Time Series Analysis, Anomaly Detection, Natural Language
-Processing, Distributed Machine Learning, Storytelling with Data, and my new love language, Python. 🫀 [^1] </p>
+Processing, Distributed Machine Learning, Storytelling with Data, and my new love language, Python. 🫀 [^1] 
 
 [^1]: Love languages were conceptualized a year before I was born. Among those five 'languages,' _acts of service_ had resonated the most.
 __UNTIL__ I started learning Python. Python is now my language of love. 
