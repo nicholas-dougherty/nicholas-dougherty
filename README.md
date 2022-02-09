@@ -1,12 +1,12 @@
 ### Hello there, Git crowd! :feelsgood:
 
-   Love languages were conceptualized a year before I was born. Among those five 'languages,' _acts of service_ has resonated the most.
-__UNTIL__ I started learning Python. Python is now my language of love. 
-
    Earlier, in this third year of COVID-19, I began my journey to become a data scientist by moving to San Antonio, Texas, to participate
 in Codeup's Data Science training program/bootcamp. Via the Department of Veterans Affairs excellent Veteran Employment Through Technology Education
 Courses (VET TEC) program, I shall learn Applied Statistics, SQL, Regression, Classification, Time Series Analysis, Anomaly Detection, Natural Language
-Processing, Distributed Machine Learning, Storytelling with Data, and my new love language, Python. 🫀
+Processing, Distributed Machine Learning, Storytelling with Data, and my new love language, Python. 🫀 [^1]
+
+[^1]: Love languages were conceptualized a year before I was born. Among those five 'languages,' _acts of service_ had resonated the most.
+__UNTIL__ I started learning Python. Python is now my language of love. 
 
    Prior to this pursuit, I've worn a handful of hats. The most memorable were as an Intelligence Specialist and Geopolitical Analyst. Outside of this
 information technology, my passions are nested in literature, music, and nature. 
