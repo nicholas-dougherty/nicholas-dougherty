@@ -1,7 +1,7 @@
 ### Hello there, Git crowd! :feelsgood:
 ***
-- Earlier, in this third year of COVID-19, I began my journey to become a data scientist by moving to San Antonio, Texas, to participate
-in Codeup's Data Science training program/bootcamp. 
+Earlier, in this third year of COVID-19, I began my journey to become a data scientist
+by moving to San Antonio, Texas, to participate in Codeup's Data Science bootcamp.
 ***
 <p> Via the Department of Veterans Affairs excellent Veteran Employment Through Technology Education
 Courses (VET TEC) program, I shall learn: Applied Statistics, SQL, Regression, Classification, Time Series Analysis, Anomaly Detection, Natural Language
