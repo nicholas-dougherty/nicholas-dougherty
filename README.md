@@ -15,7 +15,6 @@ Outside of information technology, my passions are nested in literature, music, 
 
 > If you would like to contact me, feel free to do so via [my LinkedIn profile](https://www.linkedin.com/in/nicholas-dougherty-14037a141/).
    
-![yurgh](https://user-images.githubusercontent.com/96060766/153166169-95d7037e-2ba6-45d2-bda6-783bb01810ab.png)
 
 ~~p.s. "Git Gud"~~   
 
