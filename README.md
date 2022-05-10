@@ -24,8 +24,7 @@ Outside of information technology, my passions are nested in literature, music, 
 > If you would like to contact me, feel free to do so via [my LinkedIn profile](https://www.linkedin.com/in/nicholas-dougherty-14037a141/).
 
 ~~p.s. "Git Gud"~~   
-
+<img src="{https://github-readme-streak-stats.herokuapp.com/?user={nicholas-dougherty}}" />
 <!--
 **nicholas-dougherty/nicholas-dougherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="{https://github-readme-streak-stats.herokuapp.com/?user={nicholas-dougherty}}" />
