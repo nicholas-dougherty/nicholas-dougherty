@@ -14,8 +14,6 @@ __UNTIL__ I started learning Python. Python is now my language of love.
 Outside of information technology, my passions are nested in literature, music, and nature. 
 
 > If you would like to contact me, feel free to do so via [my LinkedIn profile](https://www.linkedin.com/in/nicholas-dougherty-14037a141/).
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nicholas-dougherty-14037a141" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-dougherty-14037a141?trk=profile-badge">Nicholas Dougherty</a></div>
-                 
 
 ~~p.s. "Git Gud"~~   
 
